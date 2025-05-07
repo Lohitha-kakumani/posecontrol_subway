@@ -21,12 +21,6 @@ MediaPipe
 
 PyAutoGUI
 
-🚀 How to Run
-Install dependencies:
-pip install opencv-python mediapipe pyautogui
-Run the script:
-python main.py
-
 
 🛑 Note
 Do not move or delete the webcam or interrupt the pose detection during gameplay. Make sure your body is clearly visible to the webcam.
